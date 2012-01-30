@@ -1,0 +1,23 @@
+to start:
+browse to folder
+git init
+git add remote origin 'git@github.com:reddenx/Outbreak.git'
+git pull origin master
+
+
+daily use:
+update your info:
+git pull origin master
+git clean -f
+
+do work
+add work
+git add "files here, DO NOT USE *"
+
+commit work
+git commit -m "COMMENT HERE"
+
+push work online
+git push origin master
+
+Celebrate with cake
