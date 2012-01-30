@@ -1,1 +1,1 @@
-this is the outbreak documentation main project
+This is the outbreak documentation
